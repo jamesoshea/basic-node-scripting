@@ -4,4 +4,4 @@ Run `npm install`
 
 ## Usage
 
-`node index.js`
+`node src/index.js`
