@@ -10,6 +10,11 @@
   "keywords": [],
   "author": "jamesoshea89@hotmail.com",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-prettier": "^7.0.0",
+    "eslint-plugin-prettier": "^3.2.0",
+    "prettier": "^2.2.1"
+  },
   "dependencies": {}
 }
